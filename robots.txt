@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://bobeikeud.sweetpeasleeds.co.uk/sitemap.xml
